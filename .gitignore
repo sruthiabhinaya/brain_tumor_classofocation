@@ -6,3 +6,8 @@
 *.zip
 *.pkl
 *.json
+*.npy
+*.zip
+*.pkl
+*.json
+saving.py
